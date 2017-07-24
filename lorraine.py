@@ -6,4 +6,3 @@ def bissextiles(n):
 p = Polynome([1, 2, 0, 3])
 print(p.deg())
 
-print(mo
